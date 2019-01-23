@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Latent Semantic Analysis'
+description: 'Build upon your NLP feature engineering knowledge and implement LSA using SciKit-Learn.'
 ---
 
 ## Example coding exercise
@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Latent Semantic Analysis
+
+```yaml
+type: VideoExercise
+key: 46e9015005
+xp: 50
+```
+
+`@projector_key`
+4ab1fcc06c5653e319cae3c2c5de82da
