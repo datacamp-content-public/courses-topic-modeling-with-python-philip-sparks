@@ -195,5 +195,5 @@ key: "f233a4d967"
 ```
 
 `@script`
-Now that we’ve tried latent semantic analysis in this example, let have you have a go at it!
+Now that we’ve tried latent semantic analysis in this example, let's have you have a go at it!
 
