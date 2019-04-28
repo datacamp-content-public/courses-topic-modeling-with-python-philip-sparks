@@ -1,6 +1,7 @@
 ---
 title: 'Latent Semantic Analysis'
 description: 'Build upon your NLP feature engineering knowledge and implement LSA using SciKit-Learn.'
+free_preview: true
 ---
 
 ## Example coding exercise
